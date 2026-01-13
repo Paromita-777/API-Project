@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Editor settings
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# Logs
+*.log
