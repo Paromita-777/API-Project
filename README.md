@@ -6,7 +6,7 @@ The project was designed to manage grocery store operations by storing and analy
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed as part of a software development task for Gelos Enterprises.
 
